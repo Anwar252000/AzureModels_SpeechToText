@@ -1,0 +1,6 @@
+@azuremodels_HostAddress = http://localhost:5232
+
+GET {{azuremodels_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
